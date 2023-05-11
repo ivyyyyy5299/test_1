@@ -1,3 +1,8 @@
 oooooooo
+<<<<<<< HEAD
 Hi i'm  NONONO 刪除你
 Hi i'm Jock~~~~ 123456
+NEW:
+Hi i'm Ivy!!!
+hello world lalalalla
+
